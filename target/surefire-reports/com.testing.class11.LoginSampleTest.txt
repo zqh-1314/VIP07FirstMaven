@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.testing.class11.LoginSampleTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.066 sec <<< FAILURE! - in com.testing.class11.LoginSampleTest
+login(com.testing.class11.LoginSampleTest)  Time elapsed: 0.023 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<¹§Ï²Äú£¬µÇÂ¼³É[]> but was:<¹§Ï²Äú£¬µÇÂ¼³É[¹¦]>
+	at com.testing.class11.LoginSampleTest.login(LoginSampleTest.java:39)
+
