@@ -14,6 +14,7 @@
         </properties>
 
 
+		
     <!--  依赖管理元素-->
     <dependencies>
         <!-- fastjson依赖-->
